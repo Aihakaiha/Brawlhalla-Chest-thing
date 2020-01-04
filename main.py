@@ -7,7 +7,7 @@ chests = [["Celestial", 18,["Seraph Artemis", "The Korinthian", "Emperor Koji"]]
     ["Ragnarök", 18,["Fenrir Mordex", "Nidhogg Nai", "Jotun Ulgrim"]],
     ["Sunken", 18,["Atlantean Ada", "Deep Depths Ragnir", "Dreadnought Lucien"]],
     ["Imperial", 18,["Yakuza Koji", "Death Adder Hattori", "Warrior Spirit Kor"]],
-    ["Skysail",18,["Sky Scourge Azoth", "Corsair Orion", "Airship Orion"]],
+    ["Skysail",18,["Sky Scourge Azoth", "Corsair Orion", "Airship Scarlet"]],
     ["Olympian", 18,["Athena Kaya", "Chimera Val", "Poseidon Thatch"]],
     ["Ancient", 18,["Fangwild Fawn Ember", "Winged Serpent Nai", "White Fang Gnash"]],
     ["Sandstorm", 18,["Anubis Mirage", "Amun-Raza", "God King Teros"]],
